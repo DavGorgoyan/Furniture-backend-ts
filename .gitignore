@@ -1,0 +1,4 @@
+node_modules
+.env
+public/protected_files
+build
